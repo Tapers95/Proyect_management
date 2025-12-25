@@ -205,3 +205,19 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# --- Extensiones para Gestión de Proyectos y NotebookLM ---
+
+# Archivos temporales de Office (Excel, Word, PowerPoint)
+~$*
+.~lock.*
+
+# Archivos del sistema (Windows y Mac) que ensucian el repo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos temporales de visualización de PDF y Notebooks
+*.bak
+*.tmp
+*.log
+.ipynb_checkpoints/
