@@ -3,11 +3,13 @@ Gestión de Proyectos: Inteligencia Sistémica con NotebookLM 🚀
 
 ¡Bienvenido! Este repositorio es un ecosistema de conocimiento diseñado para centralizar y organizar la gestión de proyectos desde una perspectiva integral. Aquí fusionamos la metodología de administración profesional con la potencia de análisis de la IA.
 
+Este repositorio nace con la misión de **compartir conocimiento y fomentar una gestión de proyectos más resiliente y profesional.** Hemos decidido compartir nuestros cuadernos de **NotebookLM** bajo la licencia CC BY-NC-SA para asegurar que sigan siendo un recurso gratuito y accesible para toda la comunidad, evitando su uso comercial por terceros
+
 ## 🧠 Visión Sistémica
 Este espacio no solo guarda archivos; busca entender cómo cada tarea, recurso y cronograma interactúa dentro de un sistema vivo. Nuestro objetivo es optimizar la toma de decisiones mediante el análisis profundo y la planificación resiliente.
 
 ## 📓 Contenido del Repositorio
-Actualmente, el repositorio cuenta con **19 cuadernos de NotebookLM** que abarcan temas clave:
+Actualmente, el repositorio cuenta con  **cuadernos de NotebookLM** que abarcan temas clave:
 
 * **Planificación Estratégica:** Definición de objetivos y alineación con el portafolio.
 * **Cronogramas y Tiempos:** Herramientas para el seguimiento táctico y gestión de hitos.
@@ -18,6 +20,11 @@ Actualmente, el repositorio cuenta con **19 cuadernos de NotebookLM** que abarca
 * **NotebookLM:** Para la generación de insights y síntesis de documentación.
 * **GitHub:** Como plataforma de control de versiones y repositorio central de conocimiento.
 * **Metodologías Ágiles y Tradicionales:** Aplicadas según la necesidad del proyecto.
+
+
+​Propósito: "Centralizar el conocimiento para asegurar que cada proyecto esté alineado con los objetivos del sistema."
+​Contenido: "Análisis de casos, plantillas de cronogramas y síntesis de gestión de programas."
+​Herramientas: "Uso intensivo de NotebookLM para la síntesis de documentación técnica."
 
 ## 📜 Licencia
 Este contenido está protegido bajo la licencia **Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)**. 
