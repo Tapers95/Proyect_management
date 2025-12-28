@@ -9,3 +9,5 @@ https://notebooklm.google.com/notebook/7307fad0-bdca-4917-b4a7-6416ed85ce7c
 https://notebooklm.google.com/notebook/00e4a074-1106-49e8-b4be-ca7b7703e84c
 
 https://notebooklm.google.com/notebook/1aec62dc-848e-43bb-9b60-8f3e6fa1b586
+
+https://notebooklm.google.com/notebook/0a2f47c7-423d-48f4-9be2-37c669545f94
